@@ -1,5 +1,9 @@
 <?php
 
+/*
+ * Copyright (c) Devinow (https://devinow.xyz/)
+ */
+
 use Stringizer\Stringizer;
 
 class char
