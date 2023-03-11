@@ -4,7 +4,11 @@
  * Copyright (c) Devinow (https://devinow.xyz/)
  */
 
+namespace Devinow\String;
+
+
 use Stringizer\Stringizer;
+
 
 class char
 {
